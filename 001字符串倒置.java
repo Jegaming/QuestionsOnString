@@ -1,5 +1,6 @@
-package stringpractice;
-
+﻿
+import java.util.Scanner;
+import java.util.Stack;
 /*
  题目：
 将一句话的单词进行倒置，标点不倒置。比如 I like beijing. 经过函数后变为：beijing. like I
@@ -17,8 +18,6 @@ I like beijing.
 beijing. like I
 */
 
-import java.util.Scanner;
-import java.util.Stack;
 
 
 public class Main {
